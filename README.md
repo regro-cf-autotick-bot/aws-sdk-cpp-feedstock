@@ -186,5 +186,6 @@ Feedstock Maintainers
 
 * [@ihnorton](https://github.com/ihnorton/)
 * [@pitrou](https://github.com/pitrou/)
+* [@tkelman](https://github.com/tkelman/)
 * [@xhochy](https://github.com/xhochy/)
 
